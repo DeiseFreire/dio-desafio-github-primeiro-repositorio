@@ -1,0 +1,71 @@
+# Pensamento computacional
+
+<p>1. Qual dos métodos de construção de algoritmo utiliza a linguagem natural para  expressar as instruções passo a passo?
+[ ] Pseudocódigo e fluxograma
+[ ] Pseudocódigo
+[ ] Fluxograma e narrativa
+[ ] Fluxograma
+[x] Narrativa</p>
+
+<p>2. Executar as tarefas em paralelo tem alguma vantagem?
+[ ] Facilita o desenvolvimento
+[x] Otimiza recursos, como tempo e armazenamento
+[ ] Torna um resultado mais preciso
+[ ] Nenhuma das anteriores
+[ ] Nenhuma</p>
+
+<p>3. Qual destes NÃO é um pilar do pensamento computacional?
+[ ] Abstração
+[ ] Reconhecimento de padrões
+[ ] Decomposição
+[x] Fatoração
+[ ] Algoritmos</p>
+
+<p>4. Qual das afirmações é falsa?
+[ ] Para decompor um problema é preciso primeiramente decompor os componentes principais, como características e dependências.
+[ ] O reconhecimento de padrões é uma área do conhecimento que determina dentro de uma estrutura as similaridades e diferenças existentes.
+[ ] Os padrões nos permitem generalizar, com objetivo de obter resolução para problemas diferentes.
+[x] Durante o processo de abstração particularizam o problema, de forma que ele seja aplicável a apenas um caso específico
+[ ] Nenhuma das anteriores</p>
+
+<p>5. O computador é um forte aliado na resolução de problemas, executando as instruções pré-estabelecidas. Dessa forma, indique a afirmação correta.
+[ ] O computador recebe, manipula, mas não armazena os dados;
+[ ] Os programas de computador recebem instruções sem qualquer indicação de passo a passo para coordenar sua execução
+[ ] Uma solução encontrada pelo computador nunca será mais rápida e eficiente que a encontrada por um humano.
+[x] As instruções são utilizadas pelo computador para determinar a solução de um problema
+[ ] Nenhuma das anteriores</p>
+
+<p>6. O processo de quebrar e determinar partes menores de um problema é denominado...
+[ ] Apefeiçoamento
+[ ] Construção
+[ ] Aprendizado
+[ ] Síntese
+[x] Análise</p>
+
+<p>7. Qual das afirmações sobre é VERDADEIRA ?
+[ ] O pensamento computacional é uma matéria exclusiva da ciência da computação.
+[x] O pensamento computacional é uma habilidade generalista.
+[ ] O pensamento computacional é baseado em apenas um pilar
+[ ] O pensamento computacional é uma habilidade utilizada apenas nas ciências exatas
+[ ] Apenas o computador pode implementar soluções encontradas através do pensamento computacional.</p>
+
+<p>8. A ordem de execução das tarefas dentro da etapa de decomposição pode ocorrer:
+[ ] Apenas sequencialmente
+[x] Em sequencia ou paralelo
+[ ] Invesamente
+[ ] Apenas paralelo
+[ ] Nenhuma das anteriores</p>
+
+<p>9. O processo de aperfeiçoamento, ou refinamento é necessário...
+[ ] para determinar uma solução inicial, mesmo que não seja eficiente.
+[ ] para desenvolver primeira versão de um algoritmo
+[x] para otimizar recursos e facilitar entendimento
+[ ] apenas na etapa de construção do algoritmo
+[ ] nenhuma das anteriores</p> 
+
+<p>10. O processo de busca por uma solução para um problema complexo consiste em...
+[x] Utilizar um ou mais pilares do pensamento computacional, descrever a solução, testar e aperfeiçoar;
+[ ] Utilizar apenas habilidades humanas, sem uso de poder computacional
+[ ] Utilizar apenas recursos computacionais
+[ ] Utilizar todos os pilares do pensamento computacional
+[ ] Encontrar uma solução qualquer para o problema</p>
